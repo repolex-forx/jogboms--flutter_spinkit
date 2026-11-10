@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jogboms/flutter_spinkit/commit/a813e6f7150a24319b11ac2dd91bf3cab2303fd5",
       "git:hexsha": "a813e6f7150a24319b11ac2dd91bf3cab2303fd5",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jogboms/flutter_spinkit/commit/d032088c5aa0079194697fc3d9a9f579b34a2729",
